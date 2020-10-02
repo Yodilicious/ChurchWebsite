@@ -1,2 +1,2 @@
 # ChurchWebsite
-Website for Burgessville Baptist Church
+Website for Burgessville Baptist Church, Burgessville Ontario Canada
